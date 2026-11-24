@@ -1,0 +1,22 @@
+{
+  "name": "ensights",
+  "description": "Connect Cursor to your enSights account for read-only access to enSights data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "enSights",
+    "email": "dekel@ensights.ai"
+  },
+  "homepage": "https://ensights.ai",
+  "repository": "https://github.com/solarview-io/ensights-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "ensights",
+    "energy",
+    "solar",
+    "storage",
+    "renewables",
+    "asset-management",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg"
+}

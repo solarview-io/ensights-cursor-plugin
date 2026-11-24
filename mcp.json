@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ensights": {
+      "type": "http",
+      "url": "https://mcp.ensights.ai/mcp"
+    }
+  }
+}
