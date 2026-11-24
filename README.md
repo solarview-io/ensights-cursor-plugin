@@ -1,0 +1,1 @@
+# ensights-cursor-plugin
